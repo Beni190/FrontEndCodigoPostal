@@ -7,3 +7,6 @@ desactivar politicas cors chrome
 chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
 
 conflicto Uso compartido de recursos entre dominios (CORS) google cloud
+
+user Admin.User
+pass 123456
